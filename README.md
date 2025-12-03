@@ -8,14 +8,15 @@ A production-ready machine learning pipeline that identifies "Cinderella" wins i
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Project Structure](#project-structure)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Data](#data)
-- [Methodology](#methodology)
-- [Notebooks](#notebooks)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Project Structure](#-project-structure)
+- [Key Features](#-key-features)
+- [Installation](#-installation)
+- [Data](#-data)
+- [Methodology](#-methodology)
+- [Notebooks](#-notebooks)
+- [Summary: The Notebook Journey](#summary-the-notebook-journey)
 
 ---
 
