@@ -168,22 +168,6 @@ P(HomeWin) = 1 / (1 + 10^(-Elo_diff / 400))
 
 ---
 
-## 🏆 Results
-
-- **Baseline Model (RAW)**: Accuracy: 70.2%, F1 Score: 0.12, AUC: 0.58
-- **Advanced Model (PREPARED)**: Accuracy: 75.6%, F1 Score: 0.25, AUC: 0.68
-
-The advanced model significantly outperforms the baseline model, demonstrating the value of advanced feature engineering and proper data science methodology.
-
-### Model Performance
-
-| Model   | Accuracy | F1 Score | AUC  |
-|---------|----------|----------|------|
-| RAW     | 70.2%    | 0.12     | 0.58 |
-| PREPARED| 75.6%    | 0.25     | 0.68 |
-
----
-
 ## 📓 Notebooks
 
 ### 1. `01_EDA_Raw.ipynb` - Exploratory Analysis on Raw Data
