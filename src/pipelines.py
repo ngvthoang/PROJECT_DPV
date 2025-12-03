@@ -30,7 +30,7 @@ def create_raw_pipeline(feature_cols):
     )
     
     pipeline = Pipeline([
-        ('preprocessor', preprocessor),
+        # ('preprocessor', preprocessor),
         ('classifier', LGBMClassifier(**LGBM_PARAMS))
     ])
     
