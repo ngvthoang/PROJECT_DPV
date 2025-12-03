@@ -1,3 +1,5 @@
+### **STATUS:** The report are still being finalized. Last update: 2pm, December 3 2025.
+
 # Cinderella Story Project
 
 **Predicting Football Upsets with Advanced Feature Engineering and Machine Learning**
