@@ -1,4 +1,4 @@
-### **STATUS:** The report are still being finalized. Last update: 2pm, December 3 2025.
+### **⚠️ STATUS:** The [report](./GROUP 3.pdf) are still being finalized. Last update: 2pm, December 3 2025. 
 
 # Cinderella Story Project
 
