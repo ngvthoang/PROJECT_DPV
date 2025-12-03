@@ -13,15 +13,9 @@ A production-ready machine learning pipeline that identifies "Cinderella" wins i
 - [Project Structure](#project-structure)
 - [Key Features](#key-features)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
 - [Data](#data)
 - [Methodology](#methodology)
-- [Results](#results)
 - [Notebooks](#notebooks)
-- [Technical Details](#technical-details)
-- [Future Work](#future-work)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
