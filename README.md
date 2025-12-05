@@ -1,4 +1,4 @@
-### **⚠️ STATUS:** The [report](https://github.com/ngvthoang/PROJECT_DPV/blob/main/GROUP%203.pdf) are still being finalized. Last update: 2pm, December 3 2025. 
+### **⚠️ STATUS:** The [report](https://github.com/ngvthoang/PROJECT_DPV/blob/main/%5BDSEB%2065A%5D%20FINAL%20REPORT%20-.pdf) are still being finalized. Last update: December 4 2025. 
 
 # Cinderella Story Project
 
