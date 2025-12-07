@@ -1,4 +1,15 @@
-### **⚠️ STATUS:** The [report](https://github.com/ngvthoang/PROJECT_DPV/blob/main/%5BDSEB%2065A%5D%20FINAL%20REPORT%20-.pdf) are still being finalized. Last update: December 4 2025. 
+### **⚠️ NOTE:** The final report are updated [here](https://github.com/ngvthoang/PROJECT_DPV/blob/main/%5BDSEB%2065A%5D%20G3_FinalReport.pdf). Please download the PDF file to view the complete report with proper formatting and images.
+
+### **Table of Distribution**
+| Student Name         | Student ID | Contribution Percentage |
+|----------------------|------------|-------------------------|
+| NGUYEN VIET HOANG    | 11230539   | 19.5%                   |
+| DO ANH LY            | 11230563   | 22%                     |
+| HOANG THI THANH NHAN | 11230578   | 19.5%                   |
+| TRAN DINH TUAN PHONG | 11230581   | 19.5%                   |
+| TRUONG HOANG TUNG    | 11230601   | 19.5%                   |
+
+
 
 # Cinderella Story Project
 
